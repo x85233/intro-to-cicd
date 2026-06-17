@@ -1,5 +1,5 @@
 name: CI
-
+// Testing the GitHub Actions CI workflow
 on: push
 
 jobs:
